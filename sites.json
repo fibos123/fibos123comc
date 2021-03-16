@@ -28,7 +28,7 @@
           },
           {
             "name": "遇到问题？",
-            "desc": "加入电报群和开发者以及超过 2000 名成员沟通",
+            "desc": "加入电报群和开发者以及超过 1000 名成员沟通",
             "url": "https://t.me/FIBOSIO"
           }
         ]
@@ -120,20 +120,20 @@
           {
             "name": "FIBSCAN",
             "icon": "",
-            "desc": "FIBOS 区块链浏览器",
+            "desc": "fibscandotio 节点开发的区块链浏览器",
             "url": "https://fibscan.io/"
+          },
+          {
+            "name": "Fibos Mainnet",
+            "icon": "",
+            "desc": "FIBOS FOUNDATION 开发的区块链浏览器",
+            "url": "http://explorer.fibos.io/"
           },
           {
             "name": "Chain Moe",
             "icon": "",
             "desc": "FIBOS 区块链浏览器",
             "url": "http://explorer.chain.moe/fo"
-          },
-          {
-            "name": "Fibos Mainnet",
-            "icon": "",
-            "desc": "FIBOS 区块链浏览器",
-            "url": "https://explorer.fibos.io/"
           }
         ]
       },
@@ -341,11 +341,6 @@
             "name": "FO 财富贷",
             "desc": "去中心化网贷服务平台",
             "url": "http://www.ihave.fo/defi/loan_dapp.html"
-          },
-          {
-            "name": "DE OTC",
-            "desc": "BLOCKCHAIN OTC",
-            "url": "https://kilmas.github.io/deotc/"
           },
           {
             "name": "UUEX OTC",
