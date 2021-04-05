@@ -19,7 +19,7 @@
           {
             "name": "推荐一家交易所？",
             "desc": "AEX 专业数字货币交易平台是官方合作交易所",
-            "url": "https://www.aex88.com/page/trade.html#/?symbol=fo_cnc"
+            "url": "https://www.aex88.com/page/trade.html#/?symbol=fo_usdt"
           },
           {
             "name": "能查看区块链状态吗？",
@@ -220,12 +220,17 @@
           {
             "name": "AEX",
             "desc": "首家官方合作交易所",
-            "url": "https://www.aex88.com/",
+            "url": "https://www.aex88.com/page/trade.html#/?symbol=fo_usdt",
             "more": {
               "icon": "",
               "name": "公告",
               "url": "https://www.aex88.com/page/news/notice/2019/0304/ch_693.html"
             }
+          },
+          {
+            "name": "FIBOS DEX",
+            "desc": "全球最去中心化的交易设施",
+            "url": "https://dex.fo/"
           },
           {
             "name": "LBank",
@@ -243,11 +248,6 @@
             "url": "https://www.zg.com/"
           },
           {
-            "name": "比特兔",
-            "desc": "比特币以太坊莱特币交易平台",
-            "url": "https://bitrabbit.com/markets/fo_eth"
-          },
-          {
             "name": "虎符",
             "desc": "领先的数字资产交易平台",
             "url": "https://hoo.com/"
@@ -261,11 +261,6 @@
             "name": "抹茶",
             "desc": "全球领先的数字资产服务平台",
             "url": "https://www.mxc.io/"
-          },
-          {
-            "name": "好币网",
-            "desc": "数字货币比特币交易平台",
-            "url": "https://www.hcoin86.com/"
           }
         ]
       },
