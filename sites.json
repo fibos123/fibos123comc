@@ -299,16 +299,6 @@
             "name": "Ghost",
             "desc": "FIBOS 主网全节点区块数据备份",
             "url": "http://ghost.bp.fo/"
-          },
-          {
-            "name": "FiBOSS",
-            "desc": "FIBOS 应用导航和数据服务",
-            "url": "http://fiboss.org/"
-          },
-          {
-            "name": "GitFob",
-            "desc": "FIBOS 合约追踪 & 开源社区",
-            "url": "http://gitfob.com/"
           }
         ]
       }
