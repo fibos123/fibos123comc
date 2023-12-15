@@ -4,6 +4,7 @@ To install dependencies:
 
 ```bash
 bun install
+cp .env.sample .env
 ```
 
 To run:
