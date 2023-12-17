@@ -1,6 +1,6 @@
 import fs from "fs";
-import { Api, JsonRpc } from "./libs/fibos";
-import { JsSignatureProvider } from "eosjs/dist/eosjs-jssig";
+import { Api, JsonRpc } from "@mingfunwong/fibosjs";
+import { JsSignatureProvider } from "@mingfunwong/fibosjs";
 
 async function main() {
   const accountName = process.env.accountName as string;

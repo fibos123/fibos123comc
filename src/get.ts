@@ -1,5 +1,5 @@
 import fs from "fs";
-import { JsonRpc } from "./libs/fibos";
+import { JsonRpc } from "@mingfunwong/fibosjs";
 
 async function main() {
   const endpoint = process.env.httpEndpoint as string;
