@@ -13,6 +13,6 @@
   },
   "type": "module",
   "dependencies": {
-    "fibos.js": "^0.3.11"
+    "eosjs": "^22.1.0"
   }
 }
