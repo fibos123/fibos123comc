@@ -2,15 +2,16 @@
 
 To install dependencies:
 
+## Requirement
+Node.js V22.7.0
+
 ```bash
-curl -fsSL https://bun.sh/install | bash
-bun install
 cp .env.sample .env
 ```
 
 To run:
 
 ```bash
-bun get
-bun set
+npm run get
+npm run set
 ```

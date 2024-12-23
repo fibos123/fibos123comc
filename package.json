@@ -1,18 +1,15 @@
 {
   "name": "fibos123comc",
   "module": "index.ts",
-  "devDependencies": {
-    "bun-types": "latest"
-  },
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "get": "bun run src/get.ts",
-    "set": "bun run src/set.ts"
+    "get": "node --env-file=.env --experimental-strip-types --experimental-transform-types src/get.ts",
+    "set": "node --env-file=.env --experimental-strip-types --experimental-transform-types src/set.ts"
   },
   "type": "module",
   "dependencies": {
-    "@mingfunwong/fibosjs": "^1.0.0"
+    "@mingfunwong/fibosjs": "^1.1.0"
   }
 }
